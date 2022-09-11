@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Common wallaroo","category":"Yellow"},
+{"id":2,"name":"Lizard, collared","category":"Red"},
+{"id":3,"name":"Heron, goliath","category":"Maroon"},
+{"id":4,"name":"Banded mongoose","category":"Fuscia"},
+{"id":5,"name":"Lizard, collared","category":"Mauv"},
+{"id":6,"name":"Whale, baleen","category":"Mauv"},
+{"id":7,"name":"Zebra, common","category":"Crimson"},
+{"id":8,"name":"Cat, european wild","category":"Turquoise"},
+{"id":9,"name":"Cat, toddy","category":"Aquamarine"},
+{"id":10,"name":"Cliffchat, mocking","category":"Pink"},
+{"id":11,"name":"Galapagos sea lion","category":"Violet"},
+{"id":12,"name":"Ringtail, common","category":"Red"},
+{"id":13,"name":"White-winged tern","category":"Maroon"},
+{"id":14,"name":"Seal, harbor","category":"Teal"},
+{"id":15,"name":"Snowy sheathbill","category":"Puce"},
+{"id":16,"name":"Long-nosed bandicoot","category":"Pink"},
+{"id":17,"name":"Bat, little brown","category":"Teal"},
+{"id":18,"name":"Horned lark","category":"Teal"},
+{"id":19,"name":"Starfish, crown of thorns","category":"Pink"},
+{"id":20,"name":"Sandgrouse, yellow-throated","category":"Maroon"}
+]
+}
